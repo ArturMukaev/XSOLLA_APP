@@ -1,0 +1,138 @@
+/* сброс стилей браузера */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1.2;
+}
+ol {
+  padding-left: 1.4em;
+  list-style: decimal;
+}
+ul {
+  padding-left: 1.4em;
+  list-style: square;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* конец кода сброса стилей браузера */
+body {
+  background-color: #F0F3FF;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.container {
+  max-width: 1200px;
+  display: block;
+  margin: 40px auto;
+  padding: 40px;
+  background: #FFFFFF;
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.12);
+  border-radius: 16px;
+}
+.container2 {
+  display: block;
+  width: 90%;
+  height: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0 50px;
+}
+
+.heading {
+  margin-left: 70px;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 66px;
+  color: #2E282C;
+}
+
+.text {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  margin-right: 10px;
+}
+
+.select {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  border: 1px solid #444444;
+  box-sizing: border-box;
+  border-radius: 6px;
+  margin-left: 10px;
+}
+
+.event-group{
+  width: 500px;
+  height: 333px;
+  border-radius: 6px;
+  display: block;
+  float: left;
+  margin: 20px;
+}
+.event-title {
+  position: relative;
+  top: 45%;
+  left: 30px;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 66px;
+  color: #FFFFFF;
+}
+
+.event-favourite {
+  position: relative;
+  top: -112px;
+  left: 80%;
+  width: 30px;
+  height: 30px;
+  display: block;
+  border-radius: 100%;
+}
+.event-favourite:hover{
+  transition-duration: 0.5s;
+  transform: scale(1.3);
+}
+
+.event-date-cont {
+  position: relative;
+  top: 30px;
+  left: 30px;
+  width: 80px;
+  height: 80px;
+  border: 2px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+.event-date {
+  font-size: 48px;
+  line-height: 66px;
+  color: #FFFFFF;
+  display: block;
+  width: 70%;
+  height: 70%;
+  margin: 5px auto;
+}
+
+input[type=checkbox] {
+  transform: scale(2);
+  padding: 10px;
+  margin-left: 10px;
+}
+
