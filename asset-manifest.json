@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/XSOLLA_APP/static/css/main.1f2c4a6f.chunk.css",
+    "main.js": "/XSOLLA_APP/static/js/main.e0d2410d.chunk.js",
+    "main.js.map": "/XSOLLA_APP/static/js/main.e0d2410d.chunk.js.map",
+    "runtime-main.js": "/XSOLLA_APP/static/js/runtime-main.c6047f8d.js",
+    "runtime-main.js.map": "/XSOLLA_APP/static/js/runtime-main.c6047f8d.js.map",
+    "static/js/2.a3acf367.chunk.js": "/XSOLLA_APP/static/js/2.a3acf367.chunk.js",
+    "static/js/2.a3acf367.chunk.js.map": "/XSOLLA_APP/static/js/2.a3acf367.chunk.js.map",
+    "static/js/3.f23f72bc.chunk.js": "/XSOLLA_APP/static/js/3.f23f72bc.chunk.js",
+    "static/js/3.f23f72bc.chunk.js.map": "/XSOLLA_APP/static/js/3.f23f72bc.chunk.js.map",
+    "index.html": "/XSOLLA_APP/index.html",
+    "static/css/main.1f2c4a6f.chunk.css.map": "/XSOLLA_APP/static/css/main.1f2c4a6f.chunk.css.map",
+    "static/js/2.a3acf367.chunk.js.LICENSE.txt": "/XSOLLA_APP/static/js/2.a3acf367.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6047f8d.js",
+    "static/js/2.a3acf367.chunk.js",
+    "static/css/main.1f2c4a6f.chunk.css",
+    "static/js/main.e0d2410d.chunk.js"
+  ]
+}
